@@ -1,0 +1,71 @@
+,Country,Location,Attendance_Numbers,Visitor_Demographics,Economic_Impact,Music_Genre,Economic_Impact_EUR
+1, Belgium,400000,24000, EDM Fans,€150 million,EDM,150000000.0
+3, Germany,90000,30000, Rock Fans,€80 million,Rock,80000000.0
+5, UK,100000,25500, Rock and Indie Fans,£60 million,Rock/Indie,60000000.0
+6, France,60000,45000, Jazz Enthusiasts,€20 million,Jazz,20000000.0
+7, Spain,40000,26500, Pop and Indie Fans,€15 million,Pop/Indie,15000000.0
+8, Serbia,200000,24000, Electronic and Rock Fans,€50 million,Electronic/Rock,50000000.0
+9, Spain,200000,30000, Indie and Electronic Music Lovers,€70 million,Indie/Electronic,70000000.0
+10, Germany,100000,26500, Alternative Music Fans,€40 million,Alternative,40000000.0
+12, Spain,150000,23000, Pop and Rock Fans,€30 million,Pop/Rock,30000000.0
+13, Belgium,200000,26500, Rock and Electronic Fans,€55 million,Rock/Electronic,55000000.0
+14, Belgium,150000,29000, Rock Enthusiasts,€85 million,Rock,85000000.0
+15, Spain,100000,30000, Electronic Music Fans,€35 million,Electronic,35000000.0
+16, Germany,75000,31500, Metal Fans,€45 million,Metal,45000000.0
+17, UK,80000,26500, Rock and Pop Fans,£40 million,Rock/Pop,40000000.0
+18, Netherlands,90000,24000, EDM Fans,€25 million,EDM,25000000.0
+19, UK,40000,26500, Indie and Alternative Music Fans,£15 million,Indie/Alternative,15000000.0
+22, UK,25000,29000, Indie and Folk Music Fans,£10 million,Indie/Folk,10000000.0
+23, Germany,40000,32500, Metal and Hardcore Fans,€30 million,Metal/Hardcore,30000000.0
+24, UK,80000,24000, Electronic and Indie Music Fans,£25 million,Electronic/Indie,25000000.0
+25, UK,60000,26500, EDM Fans,£30 million,EDM,30000000.0
+27, UK,70000,26500, EDM Fans,£35 million,EDM,35000000.0
+30, Spain,35000,29000, Indie and Electronic Fans,€18 million,Indie/Electronic,18000000.0
+32, Spain,80000,26500, Rock and Alternative Fans,€45 million,Rock/Alternative,45000000.0
+36, Greece,30000,26500, Rock and Electronic Fans,€12 million,Rock/Electronic,12000000.0
+37, Finland,35000,26500, Pop and Rock Fans,€10 million,Pop/Rock,10000000.0
+38, Germany,50000,26500, Electronic and Indie Fans,€25 million,Electronic/Indie,25000000.0
+39, UK,30000,26500, Electronic and Dance Fans,£15 million,Electronic/Dance,15000000.0
+42, France,75000,26500, Rock and Electronic Fans,€30 million,Rock/Electronic,30000000.0
+43, Spain,35000,26500, Electronic and Rock Fans,€15 million,Electronic/Rock,15000000.0
+47, Spain,50000,26500, Rock and Pop Fans,€22 million,Rock/Pop,22000000.0
+48, UK,30000,29000, Rock and Alternative Fans,£15 million,Rock/Alternative,15000000.0
+49, UK,80000,26500, Rock and Alternative Fans,£35 million,Rock/Alternative,35000000.0
+50, Germany,35000,29000, Electronic and Rock Fans,€18 million,Electronic/Rock,18000000.0
+51, Hungary,20000,42500, Jazz Fans,€12 million,Jazz,12000000.0
+53, Germany,25000,26500, Electronic and Alternative Fans,€12 million,Electronic/Alternative,12000000.0
+54, Romania,50000,26500, Electronic and Rock Fans,€25 million,Electronic/Rock,25000000.0
+55, UK,20000,26500, Emerging Artists and Indie Fans,£10 million,Indie,10000000.0
+58, UK,60000,29000, Rock and Pop Fans,£30 million,Rock/Pop,30000000.0
+59, Italy,25000,34000, Classical and Jazz Fans,€10 million,Classical/Jazz,10000000.0
+60, Netherlands,60000,26500, LGBTQ+ and Pop Fans,€30 million,Pop,30000000.0
+63, Montenegro,50000,26500, EDM and Techno Fans,€20 million,EDM/Techno,20000000.0
+64, Spain,30000,26500, Pop and Indie Fans,€12 million,Pop/Indie,12000000.0
+65, Germany,40000,31500, Stoner Rock and Metal Fans,€25 million,Stoner Rock/Metal,25000000.0
+68, Belgium,30000,26500, Dark and Electronic Fans,€15 million,Dark/Electronic,15000000.0
+70, Spain,25000,42500, Classical and Jazz Fans,€12 million,Classical/Jazz,12000000.0
+71, UK,35000,26500, Indie and Rock Fans,£15 million,Indie/Rock,15000000.0
+72, UK,40000,42500, Folk and Celtic Music Fans,£20 million,Folk/Celtic,20000000.0
+75, Hungary,20000,42500, Classical Music Fans,€15 million,Classical,15000000.0
+76, Ireland,50000,29000, Indie and Electronic Fans,€30 million,Indie/Electronic,30000000.0
+79, Croatia,45000,24000, EDM and Beach Fans,€25 million,EDM,25000000.0
+88, Italy,35000,26500, Classical and Opera Fans,€20 million,Classical/Opera,20000000.0
+89, Portugal,30000,26500, Fado and Pop Fans,€15 million,Fado/Pop,15000000.0
+90, Austria,25000,29000, Classical and Electronic Fans,€12 million,Classical/Electronic,12000000.0
+118, Finland,25000,26500, Folk Metal Fans,€12 million,Folk Metal,12000000.0
+123, Malta,15000,26500, EDM and Pop Fans,€8 million,EDM/Pop,8000000.0
+124, Latvia,10000,26500, Rock and Folk Fans,€5 million,Rock/Folk,5000000.0
+125, Estonia,15000,29000, Electronic and Indie Fans,€7 million,Electronic/Indie,7000000.0
+126, Lithuania,20000,26500, Rock and Jazz Fans,€10 million,Rock/Jazz,10000000.0
+128, Cyprus,10000,26500, Pop and Rock Fans,€4 million,Pop/Rock,4000000.0
+129, Slovakia,15000,29000, Rock and Electronic Fans,€7 million,Rock/Electronic,7000000.0
+130, Slovenia,18000,26500, Alternative and Indie Fans,€9 million,Alternative/Indie,9000000.0
+131, Croatia,25000,26500, Rock and EDM Fans,€12 million,Rock/EDM,12000000.0
+132, Portugal,30000,26500, Fado and Indie Fans,€15 million,Fado/Indie,15000000.0
+136, Albania,10000,26500, Rock and Pop Fans,€5 million,Rock/Pop,5000000.0
+137, Kosovo,12000,26500, Electronic and Indie Fans,€6 million,Electronic/Indie,6000000.0
+138, Montenegro,10000,29000, Rock and Jazz Fans,€5 million,Rock/Jazz,5000000.0
+167, Andorra,8000,26500, Rock and Electronic Fans,€4 million,Rock/Electronic,4000000.0
+168, San Marino,10000,26500, Pop and Jazz Fans,€5 million,Pop/Jazz,5000000.0
+170, Monaco,12000,29000, Jazz and Electronic Fans,€6 million,Jazz/Electronic,6000000.0
+171, Vatican City,5000,39000, Classical and Choral Fans,€2 million,Classical/Choral,2000000.0
